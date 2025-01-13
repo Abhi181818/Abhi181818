@@ -114,19 +114,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi181818&layout=compact&theme=dark&hide_border=true" alt="Abhi181818's Top Languages" />
 </p>
 
----
-
-### **Featured Projects**
-<p align="center">
-  <a href="https://github.com/Abhi181818/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi181818&repo=project-1&theme=dark&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Abhi181818/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi181818&repo=project-2&theme=dark&hide_border=true" alt="Project 2" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi181818&theme=onedark&no-frame=true&row=1&column=7" alt="Abhi181818's GitHub Trophies" />
