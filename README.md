@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi181818" alt="abhi181818" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m a **Java Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-abhishek-yadav.vercel.app/](https://portfolio-abhishek-yadav.vercel.app/)
 
